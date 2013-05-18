@@ -1,12 +1,13 @@
 README 
 Модуль Elfinder. 
 Подключить в bootstrap.php 
+```php
 <?php
 Kohana::modules(array(
 	...
     'elfinder' => MODPATH.'elfinder',
 ));
-?>
+?>```
 
 Используем так: 
 
