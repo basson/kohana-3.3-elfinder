@@ -1,6 +1,6 @@
 README 
 
-Модуль Elfinder. 
+Модуль Elfinder для Kohana 3.3.
 
 Подключить в bootstrap.php 
 
